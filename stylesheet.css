@@ -1,4 +1,4 @@
-header{
+header{font-family: PoiretOne-Regular.ttfß;
 	width: 100%;
 display: block;
 background-color: black;
@@ -30,6 +30,7 @@ float: left;
 }
 
 #email{
+	font-family: DidactGothic;
 	text-align: left;
 font-size: 27px;
 color: black;
@@ -41,7 +42,7 @@ float: left;
 }
 #marketing{
 	text-align: left;
-font-size: 20px;
+font-size: 17px;
 color: black;
 left: 0%;
 top: 76%;
@@ -84,11 +85,13 @@ color: black;
     width: 33%;
 }
 h4{
+	font-family: IndieFlower;
     text-align: center;
     
 }
 
 .icons p{
+	font-family: Oswald-Light;
     text-align: center;
 }
 .row img{
@@ -119,6 +122,7 @@ body{
     width: 400px;
 }
 .some-text {  
+	font-family: Oswald-Light;
     margin-right: 58%;
     display: inline-block;
     position: absolute;
@@ -126,10 +130,12 @@ body{
     margin-left: 5%;
 }
 .some-text h4{
+	font-family: IndieFlower;
     text-align: left;
     
 }
 .some-text2{
+	font-family: Oswald-Light;
        display: inline-block;
     position: absolute;
     /* top: 0; */
@@ -144,13 +150,15 @@ body{
     
 }
 .fifth-section{
-    
+    font-family: Oswald-Light;
     background-color: white;
 }
 .fifth-section h4{
+	font-family: IndieFlower;
     text-align: left;
 }
 .sixth-section{
+	font-family: Oswald-Light;
     background-color:#7FFF00;
     text-align: center;
     padding: 5% 0 5% 0;
@@ -159,6 +167,7 @@ body{
     
 }
 .seventh-section{
+	font-family: Oswald-Light;
     display: block;
     background-color: white;
     padding-left: 5%;
@@ -169,11 +178,12 @@ body{
 }
 .seventh-section h4{
    
-    
+    font-family: IndieFlower;
     text-align: left;
     
 }
 .last-section{
+	font-family: IndieFlower;
     background-color: black;
     display: block;
     color: yellow;
