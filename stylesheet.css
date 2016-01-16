@@ -26,6 +26,7 @@ width: 45%;
 	position: relative;
 display: inline-block;
 width: 100%;
+float: left;
 }
 
 #email{
@@ -36,6 +37,7 @@ left: 5%;
 top: 60%;
 position: absolute;
 width: 30%;
+float: left;
 }
 #marketing{
 	text-align: left;
@@ -45,12 +47,21 @@ left: 0%;
 top: 76%;
 position: absolute;
 width: 100%;
+float: left;
+
 }
 
-hr{
-	width: 30%;
-text-align: left;
-margin-left: 0px;
+#hr{
+width: 100%;
+float: left;
+position: absolute;
+top: 110px;
+color: black;
+
+}
+#hr1{
+	color: black;
+
 }
 
 <!--end of people-->
