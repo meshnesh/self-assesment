@@ -1,0 +1,171 @@
+header{
+	width: 100%;
+display: block;
+background-color: black;
+}
+#gnome{
+	font-size: 51px;
+color: #DAA520;
+position: relative;
+width: 45%;
+}
+
+#having{
+	padding-right: 2%;
+    padding-top: 4%;
+    text-align: right;
+    color: #cccccc;
+    padding-top: 0px;
+}
+
+<!--endofheader css-->
+
+#people{
+
+	
+	position: relative;
+display: inline-block;
+width: 100%;
+}
+
+#email{
+	text-align: left;
+font-size: 27px;
+color: black;
+left: 5%;
+top: 60%;
+position: absolute;
+width: 30%;
+}
+#marketing{
+	text-align: left;
+font-size: 20px;
+color: black;
+left: 0%;
+top: 76%;
+position: absolute;
+width: 100%;
+}
+
+hr{
+	width: 30%;
+text-align: left;
+margin-left: 0px;
+}
+
+<!--end of people-->
+
+}
+.second-section {
+    background-color: white;
+    padding-left: 5%;
+   padding-bottom: 4%;
+    padding-top: 3%;
+    
+}
+.row{
+    min-width: 960px;
+    padding: 30px 0 30px 0;
+    
+}
+.icons{
+    display: inline-block;
+    width: 33%;
+}
+h4{
+    text-align: center;
+    
+}
+
+.icons p{
+    text-align: center;
+}
+.row img{
+  padding-left: 45%;
+    padding-bottom: 5%;  
+}
+body{
+    background-color: #cccccc;
+    width: 100%
+}
+.third-section,
+.fourth-section{
+    background-color: white;
+}
+.fourth-section {
+        padding: 3% 0 28% 0%;
+    
+}
+.floater{
+      width: 41%;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+}
+.floater img{
+    height: 353px;
+    padding-right: 45px;
+    width: 400px;
+}
+.some-text {  
+    margin-right: 58%;
+    display: inline-block;
+    position: absolute;
+    padding-top: 3%;
+    margin-left: 5%;
+}
+.some-text h4{
+    text-align: left;
+    
+}
+.some-text2{
+       display: inline-block;
+    position: absolute;
+    /* top: 0; */
+    margin-left: 20%;
+    margin-right: 12%;
+    margin-top: 4%;
+}
+.floater-2{
+    
+    display: inline-block;
+    
+    
+}
+.fifth-section{
+    
+    background-color: white;
+}
+.fifth-section h4{
+    text-align: left;
+}
+.sixth-section{
+    background-color:#7FFF00;
+    text-align: center;
+    padding: 5% 0 5% 0;
+    font-size: 2em;
+    height: 90px
+    
+}
+.seventh-section{
+    display: block;
+    background-color: white;
+    padding-left: 5%;
+    text-align: left;
+     padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+}
+.seventh-section h4{
+   
+    
+    text-align: left;
+    
+}
+.last-section{
+    background-color: black;
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 3% 0 2% 0;
+}#00FF00
